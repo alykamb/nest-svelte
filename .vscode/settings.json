@@ -1,0 +1,18 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#482222",
+        "titleBar.activeBackground": "#653030",
+        "titleBar.activeForeground": "#FEFCFC"
+    },
+    "eslint.validate": [
+        "javascript",
+        "html",
+        "typescript",
+        "svelte"
+    ],
+    "editor.formatOnSave": true,
+    "editor.detectIndentation": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
